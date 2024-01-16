@@ -1,0 +1,12 @@
+import math
+import random
+R = float(input('Ieavdiet riņķa līnijas rādiusu:'))
+9
+print(R)
+print('Riņķa līnijas garums:', '%.2f'%(2*math.pi*R))
+print('Riņķa līnijas laukums:', '%.2f'%(math.pi * pow(R,2)))
+katete1 = float(input('Ievadiet taisnleņķa trijstūra pirmās katetes garumu:'))
+print(10)
+katete2 = float(input('Ievadiet tasnleņķa trijstūra otrās katetes garumu:'))
+print(6)
+print('taisnstūra hipotenūzas garums:')

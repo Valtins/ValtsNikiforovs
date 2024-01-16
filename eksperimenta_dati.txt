@@ -1,0 +1,11 @@
+Nosaukums eksperimentam: Smadzene, Laiks: 2023-12-08 14:39:20, Lietotājvārds: Valts, Vieta: Rīga
+Nosaukums eksperimentam: skola, Laiks: 2023-12-08 14:40:40, Lietotājvārds: Valts, Vieta: Valmiera
+Nosaukums eksperimentam: Sirds, Laiks: 2023-12-08 14:44:19, Lietotājvārds: Valts, Vieta: Jūrmala
+Nosaukums eksperimentam: smiltis, Laiks: 2023-12-11 11:40:59, Lietotājvārds: valts, Vieta: riga
+Nosaukums eksperimentam: lasis, Laiks: 2023-12-11 11:42:05, Lietotājvārds: valts, Vieta: pils
+Nosaukums eksperimentam: tirums, Laiks: 2023-12-11 11:43:27, Lietotājvārds: paula, Vieta: Salaspils
+Nosaukums eksperimentam: desas, Laiks: 2023-12-11 11:50:22, Lietotājvārds: valts nikiforovs, Vieta: Tukums
+Nosaukums eksperimentam: plits, Laiks: 2023-12-11 11:57:52, Lietotājvārds: valts, Vieta: riga
+Nosaukums eksperimentam: sirdis, Laiks: 2023-12-11 12:00:28, Lietotājvārds: Valtsnikiforovs, Vieta: Riga
+Nosaukums eksperimentam: desas, Laiks: 2023-12-11 12:04:44, Lietotājvārds: valts nikiforovs, Vieta: turcija
+Nosaukums eksperimentam: tikets, Laiks: 2023-12-11 12:05:38, Lietotājvārds: Gundarsplauksta, Vieta: ASV
